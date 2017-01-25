@@ -1,0 +1,3 @@
+All sample applications and code are made available to you for informational purposes only and any use is at your own risk.
+LivePerson makes no representation or warranty regarding their accuracy, reliability or use and makes no commitment that they will be free of inaccuracies, errors, bugs or interruptions.
+LivePerson will not be liable for any claims, damages or liability related to the sample applications and code or your use of them.
